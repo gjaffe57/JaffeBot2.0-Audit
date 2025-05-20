@@ -1,0 +1,246 @@
+{
+  "broken_links": {
+    "503": [
+      {
+        "url": "https://myrtlebeachhouse111.com/values-%26-vision",
+        "is_internal": true,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://myrtlebeachhouse111.com/home-myrtle-beach-house#a9266037-1970-41f6-86bd-71d1a7e22fd7",
+        "is_internal": true,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://myrtlebeachhouse111.com/values-%26-vision",
+        "is_internal": true,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://myrtlebeachhouse111.com/home-myrtle-beach-house#a9266037-1970-41f6-86bd-71d1a7e22fd7",
+        "is_internal": true,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://myrtlebeachhouse111.com/location",
+        "is_internal": true,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://myrtlebeachhouse111.com/values-%26-vision",
+        "is_internal": true,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://myrtlebeachhouse111.com/values-%26-vision",
+        "is_internal": true,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://myrtlebeachhouse111.com/who-we-are",
+        "is_internal": true,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://myrtlebeachhouse111.com/values-%26-vision",
+        "is_internal": true,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://myrtlebeachhouse111.com/who-we-are",
+        "is_internal": true,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://myrtlebeachhouse111.com/values-%26-vision",
+        "is_internal": true,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://myrtlebeachhouse111.com/location",
+        "is_internal": true,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://myrtlebeachhouse111.com/location",
+        "is_internal": true,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://myrtlebeachhouse111.com/home-myrtle-beach-house",
+        "is_internal": true,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://myrtlebeachhouse111.com/values-%26-vision",
+        "is_internal": true,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://myrtlebeachhouse111.com/values-%26-vision",
+        "is_internal": true,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://myrtlebeachhouse111.com/values-%26-vision",
+        "is_internal": true,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://myrtlebeachhouse111.com/location",
+        "is_internal": true,
+        "redirect_chain": null
+      }
+    ],
+    "404": [
+      {
+        "url": "http://runningmango@msn.com",
+        "is_internal": false,
+        "redirect_chain": {
+          "chain": [
+            "http://runningmango@msn.com/",
+            "https://msn.com/",
+            "https://www.msn.com/"
+          ],
+          "count": 2,
+          "latency": 0.37503790855407715,
+          "final_status": 404,
+          "has_loop": false
+        }
+      },
+      {
+        "url": "http://runningmango@msn.com",
+        "is_internal": false,
+        "redirect_chain": {
+          "chain": [
+            "http://runningmango@msn.com/",
+            "https://msn.com/",
+            "https://www.msn.com/"
+          ],
+          "count": 2,
+          "latency": 0.09704995155334473,
+          "final_status": 404,
+          "has_loop": false
+        }
+      },
+      {
+        "url": "http://runningmango@msn.com",
+        "is_internal": false,
+        "redirect_chain": {
+          "chain": [
+            "http://runningmango@msn.com/",
+            "https://msn.com/",
+            "https://www.msn.com/"
+          ],
+          "count": 2,
+          "latency": 0.08932876586914062,
+          "final_status": 404,
+          "has_loop": false
+        }
+      },
+      {
+        "url": "http://runningmango@msn.com",
+        "is_internal": false,
+        "redirect_chain": {
+          "chain": [
+            "http://runningmango@msn.com/",
+            "https://msn.com/",
+            "https://www.msn.com/"
+          ],
+          "count": 2,
+          "latency": 0.31210899353027344,
+          "final_status": 404,
+          "has_loop": false
+        }
+      },
+      {
+        "url": "http://runningmango@msn.com",
+        "is_internal": false,
+        "redirect_chain": {
+          "chain": [
+            "http://runningmango@msn.com/",
+            "https://msn.com/",
+            "https://www.msn.com/"
+          ],
+          "count": 2,
+          "latency": 0.08072876930236816,
+          "final_status": 404,
+          "has_loop": false
+        }
+      }
+    ],
+    "403": [
+      {
+        "url": "https://www.godaddy.com/websites/website-builder?isc=pwugc&utm_source=wsb&utm_medium=applications&utm_campaign=en-us_corp_applications_base",
+        "is_internal": false,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://www.godaddy.com/websites/website-builder?isc=pwugc&utm_source=wsb&utm_medium=applications&utm_campaign=en-us_corp_applications_base",
+        "is_internal": false,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://www.godaddy.com/websites/website-builder?isc=pwugc&utm_source=wsb&utm_medium=applications&utm_campaign=en-us_corp_applications_base",
+        "is_internal": false,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://www.godaddy.com/websites/website-builder?isc=pwugc&utm_source=wsb&utm_medium=applications&utm_campaign=en-us_corp_applications_base",
+        "is_internal": false,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://www.godaddy.com/websites/website-builder?isc=pwugc&utm_source=wsb&utm_medium=applications&utm_campaign=en-us_corp_applications_base",
+        "is_internal": false,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://www.godaddy.com/websites/website-builder?isc=pwugc&utm_source=wsb&utm_medium=applications&utm_campaign=en-us_corp_applications_base",
+        "is_internal": false,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://www.godaddy.com/websites/website-builder?isc=pwugc&utm_source=wsb&utm_medium=applications&utm_campaign=en-us_corp_applications_base",
+        "is_internal": false,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://www.godaddy.com/websites/website-builder?isc=pwugc&utm_source=wsb&utm_medium=applications&utm_campaign=en-us_corp_applications_base",
+        "is_internal": false,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://www.godaddy.com/websites/website-builder?isc=pwugc&utm_source=wsb&utm_medium=applications&utm_campaign=en-us_corp_applications_base",
+        "is_internal": false,
+        "redirect_chain": null
+      }
+    ]
+  },
+  "redirect_chains": {
+    "http://runningmango@msn.com": {
+      "chain": [
+        "http://runningmango@msn.com/",
+        "https://msn.com/",
+        "https://www.msn.com/"
+      ],
+      "count": 2,
+      "latency": 0.08072876930236816,
+      "final_status": 404,
+      "has_loop": false
+    }
+  },
+  "sitemap_issues": [
+    "Error fetching sitemap: HTTPSConnectionPool(host='myrtlebeachhouse111.com', port=443): Read timed out. (read timeout=10)"
+  ],
+  "redirect_loops": 0,
+  "orphan_pages": [],
+  "depth_distribution": {
+    "0": 1,
+    "1": 1,
+    "2": 2,
+    "3": 2,
+    "4": 2,
+    "5": 1
+  }
+}

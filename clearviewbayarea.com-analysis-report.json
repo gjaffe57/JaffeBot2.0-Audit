@@ -1,0 +1,126 @@
+{
+  "summary": {
+    "domain": "clearviewbayarea.com",
+    "analysis_date": "2025-05-16T16:41:47.057406",
+    "total_issues": 1,
+    "critical_issues": 0,
+    "overall_score": 92,
+    "priority_distribution": {
+      "immediate": 0,
+      "high": 1,
+      "medium": 0
+    }
+  },
+  "technical_issues": [],
+  "seo_issues": [
+    {
+      "type": "links",
+      "description": "Found 1 broken links",
+      "impact": "Medium",
+      "priority": "High",
+      "broken_links": {
+        "403": [
+          {
+            "url": "https://www.cityofsantacruz.com/government/city-departments/public-works/resource-recovery-garbage-recycling-sweeping/certified-green-businesses",
+            "is_internal": false,
+            "redirect_chain": null
+          },
+          {
+            "url": "https://www.cityofsantacruz.com/government/city-departments/public-works/resource-recovery-garbage-recycling-sweeping/certified-green-businesses",
+            "is_internal": false,
+            "redirect_chain": null
+          },
+          {
+            "url": "https://www.cityofsantacruz.com/government/city-departments/public-works/resource-recovery-garbage-recycling-sweeping/certified-green-businesses",
+            "is_internal": false,
+            "redirect_chain": null
+          },
+          {
+            "url": "https://www.cityofsantacruz.com/government/city-departments/public-works/resource-recovery-garbage-recycling-sweeping/certified-green-businesses",
+            "is_internal": false,
+            "redirect_chain": null
+          },
+          {
+            "url": "https://www.cityofsantacruz.com/government/city-departments/public-works/resource-recovery-garbage-recycling-sweeping/certified-green-businesses",
+            "is_internal": false,
+            "redirect_chain": null
+          },
+          {
+            "url": "https://www.cityofsantacruz.com/government/city-departments/public-works/resource-recovery-garbage-recycling-sweeping/certified-green-businesses",
+            "is_internal": false,
+            "redirect_chain": null
+          },
+          {
+            "url": "https://www.cityofsantacruz.com/government/city-departments/public-works/resource-recovery-garbage-recycling-sweeping/certified-green-businesses",
+            "is_internal": false,
+            "redirect_chain": null
+          },
+          {
+            "url": "https://www.cityofsantacruz.com/government/city-departments/public-works/resource-recovery-garbage-recycling-sweeping/certified-green-businesses",
+            "is_internal": false,
+            "redirect_chain": null
+          },
+          {
+            "url": "https://www.cityofsantacruz.com/government/city-departments/public-works/resource-recovery-garbage-recycling-sweeping/certified-green-businesses",
+            "is_internal": false,
+            "redirect_chain": null
+          },
+          {
+            "url": "https://www.cityofsantacruz.com/government/city-departments/public-works/resource-recovery-garbage-recycling-sweeping/certified-green-businesses",
+            "is_internal": false,
+            "redirect_chain": null
+          },
+          {
+            "url": "https://www.cityofsantacruz.com/government/city-departments/public-works/resource-recovery-garbage-recycling-sweeping/certified-green-businesses",
+            "is_internal": false,
+            "redirect_chain": null
+          },
+          {
+            "url": "https://www.cityofsantacruz.com/government/city-departments/public-works/resource-recovery-garbage-recycling-sweeping/certified-green-businesses",
+            "is_internal": false,
+            "redirect_chain": null
+          },
+          {
+            "url": "https://www.cityofsantacruz.com/government/city-departments/public-works/resource-recovery-garbage-recycling-sweeping/certified-green-businesses",
+            "is_internal": false,
+            "redirect_chain": null
+          }
+        ]
+      }
+    }
+  ],
+  "content_issues": [],
+  "recommendations": [
+    {
+      "category": "SEO",
+      "action": "Implement proper meta tags",
+      "priority": "High",
+      "impact": "High",
+      "estimated_effort": "Low",
+      "implementation_steps": [
+        "Add missing meta title",
+        "Add meta description",
+        "Implement social media meta tags"
+      ]
+    },
+    {
+      "category": "SEO",
+      "action": "Fix broken links",
+      "priority": "High",
+      "impact": "Medium",
+      "estimated_effort": "Medium",
+      "implementation_steps": [
+        "Review broken links list",
+        "Update or remove broken links",
+        "Implement 301 redirects where appropriate"
+      ]
+    }
+  ],
+  "scores": {
+    "technical": 100,
+    "seo": 97,
+    "content": 100,
+    "mobile": 65,
+    "overall": 92
+  }
+}

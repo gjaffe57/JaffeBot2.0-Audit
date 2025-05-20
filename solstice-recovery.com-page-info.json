@@ -1,0 +1,147 @@
+{
+  "url": "https://solstice-recovery.com",
+  "indexability": {
+    "robots_txt_allowed": true,
+    "meta_robots": "index,follow",
+    "canonical": "https://www.solstice-recovery.com",
+    "canonical_self_referencing": false,
+    "noindex_reason": null,
+    "canonical_issues": [
+      "points_to_different_domain"
+    ]
+  },
+  "metadata": {
+    "title_tag": "Solstice Sober House: Sober Living in Los Angeles",
+    "meta_description": "Welcome to Solstice Recovery, a supportive sober living home in Los \nAngeles, dedicated to helping men achieve long-term sobriety and personal \ngrowth.",
+    "h_tags": {
+      "h1": [
+        "",
+        "",
+        "Solstice Recovery - Sober Living Los Angeles, CA"
+      ],
+      "h2": [
+        "Honesty",
+        "Hope",
+        "Surrender",
+        "Courage",
+        "Integrity",
+        "Willingness",
+        "Humility",
+        "",
+        "Why Choose Solstice Recovery?",
+        "Our Program and Support"
+      ],
+      "h3": [
+        "Contact Us"
+      ],
+      "h4": [
+        "Welcome to Solstice Recovery Men’s Sober Living in Los Angeles",
+        "We offer a safe and supportive sober living home for men. Our community provides structure, guidance, and connection, helping each resident build a healthy life in recovery.",
+        "Sober Living, Los Angeles CA"
+      ]
+    },
+    "images": [
+      {
+        "src": "//images.squarespace-cdn.com/content/v1/643c50e1d8203861cacc196e/ace2585c-4f14-48fc-a51f-7ab8312d8ecc/solstice-full-blank.png?format=1500w",
+        "alt_text": "Solstice Recovery"
+      },
+      {
+        "src": "//images.squarespace-cdn.com/content/v1/643c50e1d8203861cacc196e/ace2585c-4f14-48fc-a51f-7ab8312d8ecc/solstice-full-blank.png?format=1500w",
+        "alt_text": "Solstice Recovery"
+      },
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/643c50e1d8203861cacc196e/5968c4c5-eccb-4cab-b28e-4b6181197aaa/OutsideSoberLivingHouse.jpeg",
+        "alt_text": "Exterior of Sober Living House in Los Angeles"
+      },
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/643c50e1d8203861cacc196e/dce5d993-21f7-4b4f-8f5c-585ce6f55028/ezgif-1-835fc60a7e.jpg?format=2500w",
+        "alt_text": "Interior of Sober Living House in Los Angeles"
+      },
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/643c50e1d8203861cacc196e/64977fb2-6371-4ad4-932c-b6fc5f04e2b7/ezgif-1-dd67354127.jpg?format=2500w",
+        "alt_text": "Interior of Men's Sober Living in Los Angeles"
+      },
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/643c50e1d8203861cacc196e/decc8da4-31db-4ee1-82b1-70ca64906f76/ezgif-1-6701b8ee7e.jpg?format=2500w",
+        "alt_text": "Interior of Men's Sober Living in Los Angeles"
+      },
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/643c50e1d8203861cacc196e/b71dacbd-a011-4c6a-95da-64d52aaae803/ezgif-1-029268cf26.jpg?format=2500w",
+        "alt_text": "Interior of Men's Sober Living in Los Angeles"
+      },
+      {
+        "src": "",
+        "alt_text": ""
+      },
+      {
+        "src": "",
+        "alt_text": "Interior of Men's Sober Living in Los Angeles"
+      },
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/643c50e1d8203861cacc196e/98635663-4738-4ab7-8ee0-7eeec7942c97/32E3D51D-3019-4FBB-B13F-F84419D4DF85.jpeg?format=1500w",
+        "alt_text": "Interior of Men's Sober Living in Los Angeles"
+      },
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/643c50e1d8203861cacc196e/4e6c7912-8071-46ad-bd44-b417fcf7b406/malibu+beach.jpeg",
+        "alt_text": "Ocean View in Malibu California of waves and trees"
+      },
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/643c50e1d8203861cacc196e/9d29b008-cf09-4f2f-89f8-238497e7b415/outside%2Bhouse.jpeg",
+        "alt_text": "Outside of Men's Sober Living Home in Los Angeles"
+      },
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/643c50e1d8203861cacc196e/1692213734539-1AMK5Y1N5E3K6YDPA2VP/image-asset.jpeg",
+        "alt_text": "Palm Trees in front of a Blue sky in Los Angeles California"
+      }
+    ],
+    "structured_data": {
+      "schema_types": [
+        "WebSite",
+        "Organization",
+        "LocalBusiness",
+        "BreadcrumbList"
+      ],
+      "implementation_method": "json_ld",
+      "validation_status": "invalid",
+      "schema_content": {
+        "@context": "https://schema.org/",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Solstice Recovery",
+            "item": "https://www.solstice-recovery.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Services",
+            "item": "https://www.solstice-recovery.com/services"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "About",
+            "item": "https://www.solstice-recovery.com/about"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Contact",
+            "item": "https://www.solstice-recovery.com/contact"
+          }
+        ]
+      },
+      "errors": [
+        "Invalid JSON-LD: Invalid control character at: line 10 column 682 (char 1029)"
+      ]
+    },
+    "flesch_kincaid_grade": 11.0
+  },
+  "linking_metrics": {
+    "outbound_links": 11,
+    "inbound_links": 0,
+    "depth": 0
+  }
+}

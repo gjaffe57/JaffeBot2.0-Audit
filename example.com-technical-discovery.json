@@ -1,0 +1,25 @@
+{
+  "broken_links": {},
+  "redirect_chains": {
+    "https://www.iana.org/domains/example": {
+      "chain": [
+        "https://www.iana.org/domains/example",
+        "http://www.iana.org/help/example-domains"
+      ],
+      "count": 1,
+      "latency": 0.3665499687194824,
+      "final_status": 200,
+      "has_loop": false
+    }
+  },
+  "sitemap_issues": [
+    "Sitemap not found at https://example.com/sitemap.xml"
+  ],
+  "redirect_loops": 0,
+  "orphan_pages": [
+    "https://example.com"
+  ],
+  "depth_distribution": {
+    "0": 1
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "summary": {
+    "domain": "myrtlebeachhouse111.com",
+    "analysis_date": "2025-05-16T17:40:57.726615",
+    "total_issues": 1,
+    "critical_issues": 0,
+    "overall_score": 90,
+    "priority_distribution": {
+      "immediate": 0,
+      "high": 1,
+      "medium": 0
+    }
+  },
+  "technical_issues": [],
+  "seo_issues": [
+    {
+      "type": "links",
+      "description": "Found 3 broken links",
+      "impact": "Medium",
+      "priority": "High",
+      "broken_links": {
+        "503": [
+          {
+            "url": "https://myrtlebeachhouse111.com/values-%26-vision",
+            "is_internal": true,
+            "redirect_chain": null
+          },
+          {
+            "url": "https://myrtlebeachhouse111.com/home-myrtle-beach-house#a9266037-1970-41f6-86bd-71d1a7e22fd7",
+            "is_internal": true,
+            "redirect_chain": null
+          },
+          {
+            "url": "https://myrtlebeachhouse111.com/values-%26-vision",
+            "is_internal": true,
+            "redirect_chain": null
+          },
+          {
+            "url": "https://myrtlebeachhouse111.com/home-myrtle-beach-house#a9266037-1970-41f6-86bd-71d1a7e22fd7",
+            "is_internal": true,
+            "redirect_chain": null
+          },
+          {
+            "url": "https://myrtlebeachhouse111.com/location",
+            "is_internal": true,
+            "redirect_chain": null
+          },
+          {
+            "url": "https://myrtlebeachhouse111.com/values-%26-vision",
+            "is_internal": true,
+            "redirect_chain": null
+          },
+          {
+            "url": "https://myrtlebeachhouse111.com/values-%26-vision",
+            "is_internal": true,
+            "redirect_chain": null
+          },
+          {
+            "url": "https://myrtlebeachhouse111.com/who-we-are",
+            "is_internal": true,
+            "redirect_chain": null
+          },
+          {
+            "url": "https://myrtlebeachhouse111.com/values-%26-vision",
+            "is_internal": true,
+            "redirect_chain": null
+          },
+          {
+            "url": "https://myrtlebeachhouse111.com/who-we-are",
+            "is_internal": true,
+            "redirect_chain": null
+          },
+          {
+            "url": "https://myrtlebeachhouse111.com/values-%26-vision",
+            "is_internal": true,
+            "redirect_chain": null
+          },
+          {
+            "url": "https://myrtlebeachhouse111.com/location",
+            "is_internal": true,
+            "redirect_chain": null
+          },
+          {
+            "url": "https://myrtlebeachhouse111.com/location",
+            "is_internal": true,
+            "redirect_chain": null
+          },
+          {
+            "url": "https://myrtlebeachhouse111.com/home-myrtle-beach-house",
+            "is_internal": true,
+            "redirect_chain": null
+          },
+          {
+            "url": "https://myrtlebeachhouse111.com/values-%26-vision",
+            "is_internal": true,
+            "redirect_chain": null
+          },
+          {
+            "url": "https://myrtlebeachhouse111.com/values-%26-vision",
+            "is_internal": true,
+            "redirect_chain": null
+          },
+          {
+            "url": "https://myrtlebeachhouse111.com/values-%26-vision",
+            "is_internal": true,
+            "redirect_chain": null
+          },
+          {
+            "url": "https://myrtlebeachhouse111.com/location",
+            "is_internal": true,
+            "redirect_chain": null
+          }
+        ],
+        "404": [
+          {
+            "url": "http://runningmango@msn.com",
+            "is_internal": false,
+            "redirect_chain": {
+              "chain": [
+                "http://runningmango@msn.com/",
+                "https://msn.com/",
+                "https://www.msn.com/"
+              ],
+              "count": 2,
+              "latency": 0.37503790855407715,
+              "final_status": 404,
+              "has_loop": false
+            }
+          },
+          {
+            "url": "http://runningmango@msn.com",
+            "is_internal": false,
+            "redirect_chain": {
+              "chain": [
+                "http://runningmango@msn.com/",
+                "https://msn.com/",
+                "https://www.msn.com/"
+              ],
+              "count": 2,
+              "latency": 0.09704995155334473,
+              "final_status": 404,
+              "has_loop": false
+            }
+          },
+          {
+            "url": "http://runningmango@msn.com",
+            "is_internal": false,
+            "redirect_chain": {
+              "chain": [
+                "http://runningmango@msn.com/",
+                "https://msn.com/",
+                "https://www.msn.com/"
+              ],
+              "count": 2,
+              "latency": 0.08932876586914062,
+              "final_status": 404,
+              "has_loop": false
+            }
+          },
+          {
+            "url": "http://runningmango@msn.com",
+            "is_internal": false,
+            "redirect_chain": {
+              "chain": [
+                "http://runningmango@msn.com/",
+                "https://msn.com/",
+                "https://www.msn.com/"
+              ],
+              "count": 2,
+              "latency": 0.31210899353027344,
+              "final_status": 404,
+              "has_loop": false
+            }
+          },
+          {
+            "url": "http://runningmango@msn.com",
+            "is_internal": false,
+            "redirect_chain": {
+              "chain": [
+                "http://runningmango@msn.com/",
+                "https://msn.com/",
+                "https://www.msn.com/"
+              ],
+              "count": 2,
+              "latency": 0.08072876930236816,
+              "final_status": 404,
+              "has_loop": false
+            }
+          }
+        ],
+        "403": [
+          {
+            "url": "https://www.godaddy.com/websites/website-builder?isc=pwugc&utm_source=wsb&utm_medium=applications&utm_campaign=en-us_corp_applications_base",
+            "is_internal": false,
+            "redirect_chain": null
+          },
+          {
+            "url": "https://www.godaddy.com/websites/website-builder?isc=pwugc&utm_source=wsb&utm_medium=applications&utm_campaign=en-us_corp_applications_base",
+            "is_internal": false,
+            "redirect_chain": null
+          },
+          {
+            "url": "https://www.godaddy.com/websites/website-builder?isc=pwugc&utm_source=wsb&utm_medium=applications&utm_campaign=en-us_corp_applications_base",
+            "is_internal": false,
+            "redirect_chain": null
+          },
+          {
+            "url": "https://www.godaddy.com/websites/website-builder?isc=pwugc&utm_source=wsb&utm_medium=applications&utm_campaign=en-us_corp_applications_base",
+            "is_internal": false,
+            "redirect_chain": null
+          },
+          {
+            "url": "https://www.godaddy.com/websites/website-builder?isc=pwugc&utm_source=wsb&utm_medium=applications&utm_campaign=en-us_corp_applications_base",
+            "is_internal": false,
+            "redirect_chain": null
+          },
+          {
+            "url": "https://www.godaddy.com/websites/website-builder?isc=pwugc&utm_source=wsb&utm_medium=applications&utm_campaign=en-us_corp_applications_base",
+            "is_internal": false,
+            "redirect_chain": null
+          },
+          {
+            "url": "https://www.godaddy.com/websites/website-builder?isc=pwugc&utm_source=wsb&utm_medium=applications&utm_campaign=en-us_corp_applications_base",
+            "is_internal": false,
+            "redirect_chain": null
+          },
+          {
+            "url": "https://www.godaddy.com/websites/website-builder?isc=pwugc&utm_source=wsb&utm_medium=applications&utm_campaign=en-us_corp_applications_base",
+            "is_internal": false,
+            "redirect_chain": null
+          },
+          {
+            "url": "https://www.godaddy.com/websites/website-builder?isc=pwugc&utm_source=wsb&utm_medium=applications&utm_campaign=en-us_corp_applications_base",
+            "is_internal": false,
+            "redirect_chain": null
+          }
+        ]
+      }
+    }
+  ],
+  "content_issues": [],
+  "recommendations": [
+    {
+      "category": "SEO",
+      "action": "Implement proper meta tags",
+      "priority": "High",
+      "impact": "High",
+      "estimated_effort": "Low",
+      "implementation_steps": [
+        "Add missing meta title",
+        "Add meta description",
+        "Implement social media meta tags"
+      ]
+    },
+    {
+      "category": "SEO",
+      "action": "Fix broken links",
+      "priority": "High",
+      "impact": "Medium",
+      "estimated_effort": "Medium",
+      "implementation_steps": [
+        "Review broken links list",
+        "Update or remove broken links",
+        "Implement 301 redirects where appropriate"
+      ]
+    }
+  ],
+  "scores": {
+    "technical": 100,
+    "seo": 91,
+    "content": 100,
+    "mobile": 65,
+    "overall": 90
+  }
+}

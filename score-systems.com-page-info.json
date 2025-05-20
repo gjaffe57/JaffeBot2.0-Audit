@@ -1,0 +1,198 @@
+{
+  "url": "https://score-systems.com/",
+  "indexability": {
+    "robots_txt_allowed": true,
+    "meta_robots": "index,follow",
+    "canonical": "https://score-systems.com/",
+    "canonical_self_referencing": true,
+    "noindex_reason": null,
+    "canonical_issues": [
+      "missing_canonical"
+    ]
+  },
+  "metadata": {
+    "title_tag": "SCORE Systems",
+    "meta_description": "",
+    "h_tags": {
+      "h1": [
+        "Intelligent Solutions Through Innovative Technology",
+        "Data Analytics Drive Measurable Distribution Results",
+        "Compliance Engine Manages All Document Delivery",
+        "Integrated Email Solutions Create Higher Penetration Ratios",
+        "Cost Tracking for all Meeting Types Supports Future Meeting Decisions",
+        "Integrated T&E Tracking Provides Firm and Advisor Relationship ROIs",
+        "Proprietary Path to Sales Facilitates Consistent Messaging"
+      ],
+      "h2": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "Scope",
+        "Configure",
+        "Migrate",
+        "Train"
+      ]
+    },
+    "images": [
+      {
+        "src": "Images/down.chevron.gif",
+        "alt_text": "You Shall Pass!"
+      },
+      {
+        "src": "Images/SALESFORCE.jpg",
+        "alt_text": ""
+      },
+      {
+        "src": "images/CardFrontButton.png",
+        "alt_text": ""
+      },
+      {
+        "src": "Images/COMPLIANCESUPPORT.jpg",
+        "alt_text": ""
+      },
+      {
+        "src": "images/CardFrontButton.png",
+        "alt_text": ""
+      },
+      {
+        "src": "Images/EMAILANALYTICS.jpg",
+        "alt_text": ""
+      },
+      {
+        "src": "images/CardFrontButton.png",
+        "alt_text": ""
+      },
+      {
+        "src": "Images/MEETINGROI.jpg",
+        "alt_text": ""
+      },
+      {
+        "src": "images/CardFrontButton.png",
+        "alt_text": ""
+      },
+      {
+        "src": "Images/FULFILLMENTMANAGEMENT.jpg",
+        "alt_text": ""
+      },
+      {
+        "src": "images/CardFrontButton.png",
+        "alt_text": ""
+      },
+      {
+        "src": "Images/ONLINEPORTAL.jpg",
+        "alt_text": ""
+      },
+      {
+        "src": "images/CardFrontButton.png",
+        "alt_text": ""
+      },
+      {
+        "src": "Images/PIPELINETRACKING.jpg",
+        "alt_text": ""
+      },
+      {
+        "src": "images/CardFrontButton.png",
+        "alt_text": ""
+      },
+      {
+        "src": "Images/EXPENSEMANAGEMENT.jpg",
+        "alt_text": ""
+      },
+      {
+        "src": "images/CardFrontButton.png",
+        "alt_text": ""
+      },
+      {
+        "src": "images/ICON-1.png",
+        "alt_text": ""
+      },
+      {
+        "src": "images/ICON-2.png",
+        "alt_text": ""
+      },
+      {
+        "src": "images/ICON-3.png",
+        "alt_text": ""
+      },
+      {
+        "src": "images/ICON-4.png",
+        "alt_text": ""
+      },
+      {
+        "src": "images/ICON-5.png",
+        "alt_text": ""
+      },
+      {
+        "src": "images/ICON-6.png",
+        "alt_text": ""
+      },
+      {
+        "src": "images/ICON-START-1.png",
+        "alt_text": ""
+      },
+      {
+        "src": "images/ICON-START-2.png",
+        "alt_text": ""
+      },
+      {
+        "src": "images/ICON-START-3.png",
+        "alt_text": ""
+      },
+      {
+        "src": "images/ICON-START-4.png",
+        "alt_text": ""
+      },
+      {
+        "src": "images/dot.png",
+        "alt_text": ""
+      },
+      {
+        "src": "images/dot.png",
+        "alt_text": ""
+      },
+      {
+        "src": "images/dot.png",
+        "alt_text": ""
+      },
+      {
+        "src": "images/dot.png",
+        "alt_text": ""
+      },
+      {
+        "src": "images/ICON-START-1.png",
+        "alt_text": ""
+      },
+      {
+        "src": "images/ICON-START-2.png",
+        "alt_text": ""
+      },
+      {
+        "src": "images/ICON-START-3.png",
+        "alt_text": ""
+      },
+      {
+        "src": "images/ICON-START-4.png",
+        "alt_text": ""
+      },
+      {
+        "src": "Images/SCORESystemsFooter.png",
+        "alt_text": ""
+      }
+    ],
+    "structured_data": {
+      "schema_types": [],
+      "implementation_method": null,
+      "validation_status": "valid",
+      "schema_content": null,
+      "errors": []
+    }
+  },
+  "linking_metrics": {
+    "outbound_links": 2,
+    "inbound_links": 0,
+    "depth": 0
+  }
+}

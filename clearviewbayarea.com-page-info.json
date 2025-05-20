@@ -1,0 +1,182 @@
+{
+  "url": "https://clearviewbayarea.com/",
+  "indexability": {
+    "robots_txt_allowed": true,
+    "meta_robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    "canonical": "https://clearviewbayarea.com/",
+    "canonical_self_referencing": true,
+    "noindex_reason": null,
+    "canonical_issues": []
+  },
+  "metadata": {
+    "title_tag": "Santa Cruz Window Washing Service & Gutter Cleaning - Clear View",
+    "meta_description": "We are a professional window and gutter cleaning Service serving Santa Cruz and the San Francisco bay area.We are a professional window washing and gutter cleaning service serving Santa Cruz and the San Francisco Bay Area",
+    "h_tags": {
+      "h2": [
+        "Santa Cruz Window Washing & Gutter Cleaning ExpertsDepth of knowledge! We love to do the tough stuff!!",
+        "CommercialWindow Cleaning",
+        "ResidentialWindow Cleaning",
+        "Gutter andRoof Cleaning",
+        "Power Washing",
+        "Frequently Asked Questions"
+      ],
+      "h3": [
+        "After over 25 years of professional window cleaning and gutter cleaning services in Santa Cruz…",
+        "If You Are Looking for “Window Washing Services Near Me” You Cannot Do Better than Clear View!"
+      ],
+      "h5": [
+        "How much do you charge for Window Cleaning and Rain Gutter Clearing Service?",
+        "How often should I clean my windows and gutters?",
+        "When is the best time to use Clear View’s service?",
+        "How do you perform window cleaning or gutter clearing?",
+        "What forms of payment do you accept?",
+        "Do I have to be home for you to perform your service?",
+        "What kind of warranty or guarantee does Clear View offer?",
+        "What is not included in your service?",
+        "What other services do you provide besides window cleaning and gutter clearing?"
+      ],
+      "h1": []
+    },
+    "images": [
+      {
+        "src": "https://clearviewbayarea.com/wp-content/uploads/2020/03/clearviewlogo.png",
+        "alt_text": "Clear View Window Cleaning & Gutter Clearing Service"
+      },
+      {
+        "src": "https://clearviewbayarea.com/wp-content/uploads/2020/03/mainphoto.jpg",
+        "alt_text": "Professional Window and Gutter Cleaning Service"
+      },
+      {
+        "src": "https://clearviewbayarea.com/wp-content/uploads/2020/03/homeslidemobile.jpg",
+        "alt_text": ""
+      },
+      {
+        "src": "https://clearviewbayarea.com/wp-content/uploads/2020/03/commercialthumb-1.jpg",
+        "alt_text": "Commercial Window Cleaning"
+      },
+      {
+        "src": "https://clearviewbayarea.com/wp-content/uploads/2020/03/residentialthumb.jpg",
+        "alt_text": ""
+      },
+      {
+        "src": "https://clearviewbayarea.com/wp-content/uploads/2020/03/gutterthumb.jpg",
+        "alt_text": ""
+      },
+      {
+        "src": "https://clearviewbayarea.com/wp-content/uploads/2020/03/powerwashingthumb.jpg",
+        "alt_text": ""
+      },
+      {
+        "src": "https://clearviewbayarea.com/wp-content/uploads/2020/03/greenbusiness.png",
+        "alt_text": ""
+      },
+      {
+        "src": "https://clearviewbayarea.com/wp-content/uploads/2020/03/clearviewlogo.png",
+        "alt_text": ""
+      },
+      {
+        "src": "https://clearviewbayarea.com/wp-content/uploads/2021/09/ppdlogoblack.png",
+        "alt_text": "PPD"
+      }
+    ],
+    "structured_data": {
+      "schema_types": [
+        ""
+      ],
+      "implementation_method": "json_ld",
+      "validation_status": "valid",
+      "schema_content": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://clearviewbayarea.com/",
+            "url": "https://clearviewbayarea.com/",
+            "name": "Santa Cruz Window Washing Service & Gutter Cleaning - Clear View",
+            "isPartOf": {
+              "@id": "https://clearviewbayarea.com/#website"
+            },
+            "about": {
+              "@id": "https://clearviewbayarea.com/#organization"
+            },
+            "datePublished": "2020-03-20T19:30:03+00:00",
+            "dateModified": "2024-02-08T18:56:59+00:00",
+            "description": "We are a professional window and gutter cleaning Service serving Santa Cruz and the San Francisco bay area.We are a professional window washing and gutter cleaning service serving Santa Cruz and the San Francisco Bay Area",
+            "breadcrumb": {
+              "@id": "https://clearviewbayarea.com/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://clearviewbayarea.com/"
+                ]
+              }
+            ]
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://clearviewbayarea.com/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://clearviewbayarea.com/#website",
+            "url": "https://clearviewbayarea.com/",
+            "name": "Clear View Window Cleaning &amp; Gutter Clearing Service",
+            "description": "Professional Commercial Residential Window Cleaning Gutter Clearing Services",
+            "publisher": {
+              "@id": "https://clearviewbayarea.com/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://clearviewbayarea.com/?s={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+              }
+            ],
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://clearviewbayarea.com/#organization",
+            "name": "Clear View Window Cleaning & Gutter Clearing Service",
+            "url": "https://clearviewbayarea.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "inLanguage": "en-US",
+              "@id": "https://clearviewbayarea.com/#/schema/logo/image/",
+              "url": "https://clearviewbayarea.com/wp-content/uploads/2020/03/clearviewlogo.png",
+              "contentUrl": "https://clearviewbayarea.com/wp-content/uploads/2020/03/clearviewlogo.png",
+              "width": 458,
+              "height": 98,
+              "caption": "Clear View Window Cleaning & Gutter Clearing Service"
+            },
+            "image": {
+              "@id": "https://clearviewbayarea.com/#/schema/logo/image/"
+            },
+            "sameAs": [
+              "https://www.facebook.com/clearviewsantacruz/"
+            ]
+          }
+        ]
+      },
+      "errors": []
+    }
+  },
+  "linking_metrics": {
+    "outbound_links": 13,
+    "inbound_links": 20,
+    "depth": 0
+  }
+}

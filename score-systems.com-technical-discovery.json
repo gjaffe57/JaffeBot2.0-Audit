@@ -1,0 +1,18 @@
+{
+  "broken_links": {},
+  "redirect_chains": {},
+  "sitemap_issues": [
+    "Sitemap not found at https://score-systems.com/sitemap.xml",
+    "Sitemap not found at https://score-systems.com/sitemap.xml",
+    "Sitemap not found at https://score-systems.com/sitemap.xml"
+  ],
+  "redirect_loops": 0,
+  "orphan_pages": [
+    "https://score-systems.com/"
+  ],
+  "depth_distribution": {
+    "0": 1,
+    "1": 1,
+    "2": 1
+  }
+}

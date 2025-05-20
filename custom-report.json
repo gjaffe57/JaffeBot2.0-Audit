@@ -1,0 +1,32 @@
+{
+  "summary": {
+    "domain": "clearviewbayarea.com",
+    "analysis_date": "2025-05-16T15:57:18.854730",
+    "total_issues": 1,
+    "critical_issues": 0
+  },
+  "technical_issues": [],
+  "seo_issues": [
+    {
+      "type": "links",
+      "description": "Found 1 broken links",
+      "impact": "Medium",
+      "priority": "High"
+    }
+  ],
+  "content_issues": [],
+  "recommendations": [
+    {
+      "category": "SEO",
+      "action": "Implement proper meta tags",
+      "priority": "High",
+      "impact": "High"
+    },
+    {
+      "category": "SEO",
+      "action": "Fix broken links",
+      "priority": "High",
+      "impact": "Medium"
+    }
+  ]
+}

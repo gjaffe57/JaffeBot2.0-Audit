@@ -1,0 +1,98 @@
+{
+  "broken_links": {
+    "403": [
+      {
+        "url": "https://www.cityofsantacruz.com/government/city-departments/public-works/resource-recovery-garbage-recycling-sweeping/certified-green-businesses",
+        "is_internal": false,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://www.cityofsantacruz.com/government/city-departments/public-works/resource-recovery-garbage-recycling-sweeping/certified-green-businesses",
+        "is_internal": false,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://www.cityofsantacruz.com/government/city-departments/public-works/resource-recovery-garbage-recycling-sweeping/certified-green-businesses",
+        "is_internal": false,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://www.cityofsantacruz.com/government/city-departments/public-works/resource-recovery-garbage-recycling-sweeping/certified-green-businesses",
+        "is_internal": false,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://www.cityofsantacruz.com/government/city-departments/public-works/resource-recovery-garbage-recycling-sweeping/certified-green-businesses",
+        "is_internal": false,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://www.cityofsantacruz.com/government/city-departments/public-works/resource-recovery-garbage-recycling-sweeping/certified-green-businesses",
+        "is_internal": false,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://www.cityofsantacruz.com/government/city-departments/public-works/resource-recovery-garbage-recycling-sweeping/certified-green-businesses",
+        "is_internal": false,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://www.cityofsantacruz.com/government/city-departments/public-works/resource-recovery-garbage-recycling-sweeping/certified-green-businesses",
+        "is_internal": false,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://www.cityofsantacruz.com/government/city-departments/public-works/resource-recovery-garbage-recycling-sweeping/certified-green-businesses",
+        "is_internal": false,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://www.cityofsantacruz.com/government/city-departments/public-works/resource-recovery-garbage-recycling-sweeping/certified-green-businesses",
+        "is_internal": false,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://www.cityofsantacruz.com/government/city-departments/public-works/resource-recovery-garbage-recycling-sweeping/certified-green-businesses",
+        "is_internal": false,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://www.cityofsantacruz.com/government/city-departments/public-works/resource-recovery-garbage-recycling-sweeping/certified-green-businesses",
+        "is_internal": false,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://www.cityofsantacruz.com/government/city-departments/public-works/resource-recovery-garbage-recycling-sweeping/certified-green-businesses",
+        "is_internal": false,
+        "redirect_chain": null
+      }
+    ]
+  },
+  "redirect_chains": {},
+  "sitemap_issues": [
+    "Error fetching sitemap: HTTPSConnectionPool(host='clearviewbayarea.com', port=443): Read timed out. (read timeout=10)"
+  ],
+  "redirect_loops": 0,
+  "orphan_pages": [],
+  "depth_distribution": {
+    "0": 1,
+    "1": 1,
+    "2": 1,
+    "3": 1,
+    "4": 1,
+    "5": 1,
+    "6": 1,
+    "7": 1,
+    "8": 1,
+    "9": 1,
+    "10": 1,
+    "11": 1,
+    "12": 1,
+    "13": 1,
+    "14": 2,
+    "15": 1,
+    "16": 1,
+    "17": 1,
+    "18": 1
+  }
+}

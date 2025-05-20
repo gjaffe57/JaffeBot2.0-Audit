@@ -1,0 +1,20 @@
+{
+  "crawl_issues_summary": {
+    "urls_missing_title_tag": 0,
+    "urls_missing_meta_description": 0,
+    "urls_missing_h1": 0,
+    "images_missing_alt_text": 1,
+    "duplicate_titles": 0,
+    "duplicate_meta_descriptions": 0,
+    "duplicate_content": 0,
+    "redirect_loops": 0
+  },
+  "canonical_issues_summary": {
+    "points_to_different_domain": 1
+  },
+  "internal_linking_summary": {
+    "total_pages": 114,
+    "total_internal_links": 1606,
+    "orphan_pages_count": 1
+  }
+}

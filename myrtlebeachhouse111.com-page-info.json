@@ -1,0 +1,114 @@
+{
+  "url": "https://myrtlebeachhouse111.com/",
+  "indexability": {
+    "robots_txt_allowed": true,
+    "meta_robots": "index,follow",
+    "canonical": "https://myrtlebeachhouse111.com/",
+    "canonical_self_referencing": true,
+    "noindex_reason": null,
+    "canonical_issues": [
+      "missing_canonical"
+    ]
+  },
+  "metadata": {
+    "title_tag": "In Recovery - Myrtle Beach House A Sober Living Environment",
+    "meta_description": "In recovery, Myrtle Beach House is a sober living environment in Santa Cruz, Ca.",
+    "h_tags": {
+      "h1": [
+        "A Sober Living Environment in Santa Cruz, CA"
+      ],
+      "h2": [
+        "A SOBER LIVNG ENVIRONMENT",
+        "WHO WE ARE",
+        "CONTACT US"
+      ],
+      "h4": [
+        "Welcome Home",
+        "Values & Vision",
+        "Location",
+        "Nearby Activities",
+        "Spacious Living",
+        "Spacious Living",
+        "Nearby Activities",
+        "Spacious Living",
+        "Nearby Activities",
+        "Nearby Activities",
+        "Nearby Activities",
+        "Vince D'Angelo, Onsite House Manager",
+        "Vince D'Angelo, Onsite House Manager",
+        "Vince D'Angelo, Onsite House Manager",
+        "Brent Stansfield, Founder",
+        "Vince D'Angelo, Onsite House Manager",
+        "Vince D'Angelo, Onsite House Manager",
+        "CALL US ANYTIME",
+        "Myrtle Beach House, SLE"
+      ]
+    },
+    "images": [
+      {
+        "src": "//img1.wsimg.com/isteam/ip/cc5f40df-0fe8-47f2-ace4-612456fc58b5/logo/eb4502ab-6cfc-4ef7-8eaf-b526b951f238.png/:/rs=h:80,cg:true,m/qt=q:95",
+        "alt_text": "Myrtle Beach House"
+      },
+      {
+        "src": "//img1.wsimg.com/isteam/ip/cc5f40df-0fe8-47f2-ace4-612456fc58b5/logo/eb4502ab-6cfc-4ef7-8eaf-b526b951f238.png/:/rs=h:80,cg:true,m/qt=q:95",
+        "alt_text": "Myrtle Beach House"
+      },
+      {
+        "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+        "alt_text": ""
+      },
+      {
+        "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+        "alt_text": ""
+      },
+      {
+        "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+        "alt_text": ""
+      },
+      {
+        "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+        "alt_text": ""
+      },
+      {
+        "src": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+        "alt_text": ""
+      }
+    ],
+    "structured_data": {
+      "schema_types": [
+        "LocalBusiness"
+      ],
+      "implementation_method": "json_ld",
+      "validation_status": "valid",
+      "schema_content": {
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "image": [
+          "http://img1.wsimg.com/isteam/ip/cc5f40df-0fe8-47f2-ace4-612456fc58b5/pt%20_%20house%20copy.jpg"
+        ],
+        "@id": "http://cc5f40df.0fe8.47f2.ace4.612456fc58b5.com",
+        "url": "myrtlebeachhouse111.com",
+        "name": "Myrtle Beach House A Sober Living Environment",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "111 MYRTLE St",
+          "addressLocality": "DOWNTOWN SANTA CRUZ",
+          "addressRegion": "CA",
+          "addressCountry": ""
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": "36.973",
+          "longitude": "-122.0258"
+        },
+        "telephone": "+1 831 430 8260"
+      },
+      "errors": []
+    }
+  },
+  "linking_metrics": {
+    "outbound_links": 9,
+    "inbound_links": 1,
+    "depth": 0
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "broken_links": {
+    "403": [
+      {
+        "url": "https://www.tiktok.com/@solsticexbloom",
+        "is_internal": false,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://www.tiktok.com/@solsticexbloom",
+        "is_internal": false,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://www.tiktok.com/@solsticexbloom",
+        "is_internal": false,
+        "redirect_chain": null
+      },
+      {
+        "url": "https://www.tiktok.com/@solsticexbloom",
+        "is_internal": false,
+        "redirect_chain": null
+      }
+    ]
+  },
+  "redirect_chains": {
+    "https://solstice-recovery.com/cart": {
+      "chain": [
+        "https://solstice-recovery.com/cart",
+        "https://www.solstice-recovery.com/cart"
+      ],
+      "count": 1,
+      "latency": 0.871614933013916,
+      "final_status": 200,
+      "has_loop": false
+    },
+    "https://solstice-recovery.com#page": {
+      "chain": [
+        "https://solstice-recovery.com/#page",
+        "https://www.solstice-recovery.com/#page"
+      ],
+      "count": 1,
+      "latency": 0.13588905334472656,
+      "final_status": 200,
+      "has_loop": false
+    },
+    "https://solstice-recovery.com/": {
+      "chain": [
+        "https://solstice-recovery.com/",
+        "https://www.solstice-recovery.com/"
+      ],
+      "count": 1,
+      "latency": 0.13947606086730957,
+      "final_status": 200,
+      "has_loop": false
+    },
+    "https://solstice-recovery.com/services": {
+      "chain": [
+        "https://solstice-recovery.com/services",
+        "https://www.solstice-recovery.com/services"
+      ],
+      "count": 1,
+      "latency": 0.1429429054260254,
+      "final_status": 200,
+      "has_loop": false
+    },
+    "https://solstice-recovery.com/about": {
+      "chain": [
+        "https://solstice-recovery.com/about",
+        "https://www.solstice-recovery.com/about"
+      ],
+      "count": 1,
+      "latency": 0.14271879196166992,
+      "final_status": 200,
+      "has_loop": false
+    },
+    "https://solstice-recovery.com/contact": {
+      "chain": [
+        "https://solstice-recovery.com/contact",
+        "https://www.solstice-recovery.com/contact"
+      ],
+      "count": 1,
+      "latency": 0.14772605895996094,
+      "final_status": 200,
+      "has_loop": false
+    },
+    "https://solstice-recovery.com/faqs": {
+      "chain": [
+        "https://solstice-recovery.com/faqs",
+        "https://www.solstice-recovery.com/faqs"
+      ],
+      "count": 1,
+      "latency": 0.1390080451965332,
+      "final_status": 200,
+      "has_loop": false
+    },
+    "https://solstice-recovery.com/mens-sober-houses-los-angeles": {
+      "chain": [
+        "https://solstice-recovery.com/mens-sober-houses-los-angeles",
+        "https://www.solstice-recovery.com/mens-sober-houses-los-angeles"
+      ],
+      "count": 1,
+      "latency": 0.1373898983001709,
+      "final_status": 200,
+      "has_loop": false
+    },
+    "https://solstice-recovery.com/sober-living-in-culver-city": {
+      "chain": [
+        "https://solstice-recovery.com/sober-living-in-culver-city",
+        "https://www.solstice-recovery.com/sober-living-in-culver-city"
+      ],
+      "count": 1,
+      "latency": 0.1421201229095459,
+      "final_status": 200,
+      "has_loop": false
+    },
+    "https://solstice-recovery.com/solstice-recovery-testimonials": {
+      "chain": [
+        "https://solstice-recovery.com/solstice-recovery-testimonials",
+        "https://www.solstice-recovery.com/solstice-recovery-testimonials"
+      ],
+      "count": 1,
+      "latency": 0.14171910285949707,
+      "final_status": 200,
+      "has_loop": false
+    },
+    "https://solstice-recovery.com/blog-1": {
+      "chain": [
+        "https://solstice-recovery.com/blog-1",
+        "https://www.solstice-recovery.com/blog-1"
+      ],
+      "count": 1,
+      "latency": 0.15538311004638672,
+      "final_status": 200,
+      "has_loop": false
+    },
+    "https://www.facebook.com/profile.php?id=100092454789354&mibextid=LQQJ4d": {
+      "chain": [
+        "https://www.facebook.com/profile.php?id=100092454789354&mibextid=LQQJ4d",
+        "https://www.facebook.com/people/Solstice-Recovery/100092454789354/?mibextid=LQQJ4d"
+      ],
+      "count": 1,
+      "latency": 0.4068441390991211,
+      "final_status": 200,
+      "has_loop": false
+    },
+    "https://solstice-recovery.com/services#page": {
+      "chain": [
+        "https://solstice-recovery.com/services#page",
+        "https://www.solstice-recovery.com/services#page"
+      ],
+      "count": 1,
+      "latency": 0.14156126976013184,
+      "final_status": 200,
+      "has_loop": false
+    },
+    "https://solstice-recovery.com/faqs#page": {
+      "chain": [
+        "https://solstice-recovery.com/faqs#page",
+        "https://www.solstice-recovery.com/faqs#page"
+      ],
+      "count": 1,
+      "latency": 0.1884138584136963,
+      "final_status": 200,
+      "has_loop": false
+    }
+  },
+  "sitemap_issues": [],
+  "redirect_loops": 0,
+  "orphan_pages": [
+    "https://solstice-recovery.com"
+  ],
+  "depth_distribution": {
+    "0": 1,
+    "1": 2,
+    "2": 1,
+    "3": 1,
+    "4": 1,
+    "5": 1,
+    "6": 1,
+    "7": 1,
+    "8": 1,
+    "9": 1,
+    "10": 1,
+    "11": 1,
+    "12": 1,
+    "13": 1,
+    "14": 1,
+    "15": 1,
+    "16": 1,
+    "17": 1,
+    "18": 1,
+    "19": 1,
+    "20": 1,
+    "21": 1,
+    "22": 1,
+    "23": 1,
+    "24": 1,
+    "25": 1,
+    "26": 1,
+    "27": 2,
+    "28": 3,
+    "29": 2,
+    "30": 2,
+    "31": 2,
+    "32": 2,
+    "33": 2,
+    "34": 2,
+    "35": 2,
+    "36": 2,
+    "37": 2,
+    "38": 2,
+    "39": 2,
+    "40": 2,
+    "41": 2,
+    "42": 2,
+    "43": 2,
+    "44": 2,
+    "45": 2,
+    "46": 2,
+    "47": 2,
+    "48": 2,
+    "49": 2,
+    "50": 2,
+    "51": 2,
+    "52": 2,
+    "53": 2,
+    "54": 2,
+    "55": 2,
+    "56": 2,
+    "57": 1,
+    "58": 1,
+    "59": 1,
+    "60": 1,
+    "61": 1,
+    "62": 1,
+    "63": 1,
+    "64": 1,
+    "65": 1,
+    "66": 1,
+    "67": 1,
+    "68": 1,
+    "69": 1,
+    "70": 1,
+    "71": 1,
+    "72": 1,
+    "73": 1,
+    "74": 1,
+    "75": 1,
+    "76": 1,
+    "77": 1,
+    "78": 1,
+    "79": 1,
+    "80": 1,
+    "81": 1
+  }
+}
